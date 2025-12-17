@@ -49,7 +49,7 @@
          "badgeColor": "msx-green",
          "image": "{PREFIX}{SERVER}/msx/logon/vk.png",
          "action": "link:  https://vk.ru/tv-app/lib?version=latest&platform=vidaa"
-      }
+      },
       {
          "badge": "{col:white}WebOS",
          "badgeColor": "msx-green",
@@ -58,3 +58,4 @@
       }
    ]
 }
+
