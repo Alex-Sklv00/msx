@@ -2,7 +2,7 @@
   "name": "РГС-1 Banditos Saloon 📺",
   "version": "2.3",
   "dictionary": "https://wals09.github.io/msx/dictionary.json",
-  "parameter": "menu: @{PREFIX}{SERVER}/msx/mooviestile/menu_ms.json",
+  "parameter": "menu: {PREFIX}{SERVER}/msx/mooviestile/menu_ms.json",
   "launcher": {
     "image": "https://raw.githubusercontent.com/wals09/msx/main/img/wals.png"
   }
