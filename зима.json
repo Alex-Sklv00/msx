@@ -257,7 +257,7 @@
                "text": "NetFix - приложение (на базе программы Lampa) для просмотра фильмов и сериалов онлайн! Не требуется никаких настроек. Запустил и смотри. Просмотр торрентов не предусмотрен.{br}ВАЖНО: Нужна регистрация! Нужна оплаченная подписка! Есть тестовый период"
             }
          },
-         "image": "https://github.com/wals09/repo/blob/main/netfix/icon.png?raw=true",
+         "image": "{PREFIX}{SERVER}/msx/netfix/icon.png?raw=true",
          "action": "link:http://netfix.cc"
       },
       {
@@ -269,7 +269,7 @@
                "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://github.com/wals09/msx/blob/main/logo/vokino.png?raw=true",
+         "image": "{PREFIX}{SERVER}/msx/logo/vokino.png?raw=true",
          "action": "link: http://web.vokino.pro/"
       },
       {

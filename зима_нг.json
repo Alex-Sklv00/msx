@@ -269,7 +269,7 @@
                "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://github.com/wals09/msx/blob/main/logo/vokino.png?raw=true",
+         "image": "{PREFIX}{SERVER}/msx/logo/vokino.png?raw=true",
          "action": "link: http://web.vokino.pro/"
       },
       {
