@@ -1,7 +1,7 @@
 {
    "type": "list",
    "headline": "MSX CC UA портал",
-   "dictionary": "https://wals09.github.io/msx/dictionary.json",
+   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
