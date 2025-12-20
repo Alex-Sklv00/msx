@@ -1,7 +1,7 @@
 {
   "type": "list",
   "headline": "VK video",
-  "dictionary": "{PREFIX}{SERVER}/msx/dictionary.json",
+  "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
   "preload": "next",
   "captionUnderlay": 1,
   "underlay": {
@@ -35,25 +35,25 @@
     {
       "badge": "{col:white}2.4.0-WebOS",
       "badgeColor": "msx-green",
-      "image": "{PREFIX}{SERVER}/msx/logon/vk.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
       "action": "link: https://tv.vk.com/app/2.4.0/webos/"
     },
     {
       "badge": "{col:white}2.4.0-Vidaa",
       "badgeColor": "msx-blue",
-      "image": "{PREFIX}{SERVER}/msx/logon/vk.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
       "action": "link: https://tv.vk.com/app/2.4.0/vidaa/"
     },
     {
       "badge": "{col:white}WebOS",
       "badgeColor": "msx-green",
-      "image": "{PREFIX}{SERVER}/msx/logon/vk.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
       "action": "link:  https://vk.ru/tv-app/lib?version=latest&platform=webos"
     },
     {
       "badge": "{col:white}Vidaa",
       "badgeColor": "msx-blue",
-      "image": "{PREFIX}{SERVER}/msx/logon/vk.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
       "action": "link:  https://vk.ru/tv-app/lib?version=latest&platform=vidaa"
     }
   ]
