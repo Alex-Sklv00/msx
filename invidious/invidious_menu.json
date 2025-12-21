@@ -1,0 +1,48 @@
+{
+  "type": "list",
+  "headline": "Invidious (YT-👀)",
+  "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
+  "preload": "next",
+  "captionUnderlay": 1,
+  "underlay": {
+    "items": [
+      {
+        "type": "space",
+        "round": false,
+        "layout": "0,0,8,1",
+        "offset": "-1,0,2,-0.8",
+        "color": "red"
+      },
+      {
+        "id": "text",
+        "type": "space",
+        "layout": "0,3,6,3",
+        "offset": "0,0.3,0,0",
+        "headline": "Инвидиус (Invidious) ",
+        "text": "{col:white}Альтернативный портал для просмотра Ютуба, страдает от блокировок провайдеров, имеются несколько адресов доступа (представлений) "
+      }
+    ]
+  },
+  "template": {
+    "type": "panel",
+    "layout": "0,0,2,2",
+    "offset": "0,0.3,0,0",
+    "area": "0,0,6,4",
+    "imageFiller": "cover",
+    "color": "transparent"
+  },
+  "items": [
+    {
+      "badge": "{col:white}p-ditum",
+      "badgeColor": "msx-blue",
+      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
+      "action": "link: https://inv.perditum.com/"
+    },
+    {
+      "badge": "{col:white}f5.si",
+      "badgeColor": "msx-green",
+      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
+      "action": "link: https://invidious.f5.si/"
+    }
+  ]
+}
