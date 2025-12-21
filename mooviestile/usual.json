@@ -89,7 +89,7 @@
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
-      "action": "panel:https://alex-sklv00.github.io/msx/vkvideo/vk_template.json"
+      "action": "link: https://tv.vk.com/app/2.4.0/webos/"
     },
     {
       "selection": {
