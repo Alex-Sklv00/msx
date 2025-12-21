@@ -184,8 +184,8 @@
           "text": "‹ Переход назад, в главное меню "
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logon/upside.jpeg",
-      "action": "content:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
+      "image": "https://alex-sklv00.github.io/msx/logon/upside.png",
+      "parameter": "menu: https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
     }
   ]
 }
