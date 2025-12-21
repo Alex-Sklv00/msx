@@ -84,24 +84,24 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "Инвидиус (Invidious) ",
-          "text": "Альтернативный портал для просмотра Ютуба, страдает от блокировок провайдеров, имеются несколько адресов доступа (представлений) "
+          "headline": "ВК-Видео ",
+          "text": "Свежие видео, фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое "
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
-      "action": "panel:https://alex-sklv00.github.io/msx/invidious/invidious_menu.json"
+      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
+      "action": "panel:https://alex-sklv00.github.io/msx/vkvideo/vk_template.json"
     },
     {
       "selection": {
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "ВК-Видео ",          
-          "text": "Свежие видео, фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое "
+          "headline": "Инвидиус (Invidious) ",
+          "text": "Альтернативный портал для просмотра Ютуба, страдает от блокировок провайдеров, имеются несколько адресов доступа (представлений) "
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
-      "action": "panel:https://alex-sklv00.github.io/msx/vkvideo/vk_template.json"
+      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
+      "action": "panel:https://alex-sklv00.github.io/msx/invidious/invidious_menu.json"
     },
     {
       "selection": {

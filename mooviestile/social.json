@@ -2,7 +2,7 @@
   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
   "compress": true,
-  "background": "https://alex-sklv00.github.io/msx/bg/social_bg.jpg",
+  "background": "https://alex-sklv00.github.io/msx/bg/social_bg.jpeg",
   "type": "list",
   "headline": "Видеоплатформы, видеохранилища и соц. сети: ",
   "transparent": 1,
@@ -84,31 +84,7 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "Яндекс Видео",
-          "text": "«Яндекс Видео» — сервис поиск по видеороликам от Яндекса с возможностью просмотра большинства найденных роликов на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах."
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/yandex.png",
-      "action": "link:https://yandex.ru/video/tvapp/?ui=tvapp"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "TikTok {col:yellow}",
-          "text": "Только WebOS{col}{br}Hеофициальное приложение для webOS"
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/tiktok.png",
-      "action": "link:https://tv.tiktok.com/webos"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "ВК-Видео ",          
+          "headline": "ВК-Видео ",
           "text": "Свежие видео, фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое "
         }
       },
@@ -144,6 +120,18 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "Яндекс Видео",
+          "text": "«Яндекс Видео» — сервис поиск по видеороликам от Яндекса с возможностью просмотра большинства найденных роликов на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах."
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/yandex.png",
+      "action": "link:https://yandex.ru/video/tvapp/?ui=tvapp"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "YouTUBE",
           "text": "Oнлайн-сервис для хостинга и просмотра видео"
         }
@@ -168,6 +156,18 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "TikTok {col:yellow}",
+          "text": "Только WebOS{col}{br}Hеофициальное приложение для webOS"
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/tiktok.png",
+      "action": "link:https://tv.tiktok.com/webos"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "Дискотека 80-х",
           "text": "Интернет-трансляции, ТВ-версии выступления звёзд на «Дискотеке 80-х» Yotube-каналa Avtoradio @Disco80s"
         }
@@ -185,7 +185,7 @@
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/upside.jpeg",
-      "action": "panel:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
+      "action": "content:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
     }
   ]
 }
