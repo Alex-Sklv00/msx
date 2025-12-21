@@ -120,8 +120,32 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "Видео Мэйл_ру (@Mail.ru)",
+          "text": "«Видео Мэйл.ру» — сервис поиска по видео портала и социальной сети «Мэйл.ру» (Mail.ru) "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/video-mail_ru.png",
+      "action": "link:https://my.mail.ru/video"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "ОК-Видео (Одноклассники)",
+          "text": "«Одноклассники-Видео» — сервис поиска видео социальной сети «Одноклассники» (ok.ru) "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/ok-video.png",
+      "action": "link:https://ok.ru/video/showcase"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "Яндекс Видео",
-          "text": "«Яндекс Видео» — сервис поиск по видеороликам от Яндекса с возможностью просмотра большинства найденных роликов на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах."
+          "text": "«Яндекс Видео» — сервис поиска видеороликов от Яндекса с возможностью просмотра большинства найденного видео на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах "
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/yandex.png",
