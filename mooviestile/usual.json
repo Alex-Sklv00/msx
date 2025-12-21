@@ -2,9 +2,9 @@
   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
   "compress": true,
-  "background": "https://alex-sklv00.github.io/msx/bg/social_bg.jpg",
+  "background": "https://alex-sklv00.github.io/msx/bg/usual_bg.jpeg",
   "type": "list",
-  "headline": "Видеоплатформы, видеохранилища и соц. сети: ",
+  "headline": "Основные приложения (РГС-1 📺)",
   "transparent": 1,
   "preload": "next",
   "underlay": {
@@ -84,24 +84,12 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "Яндекс Видео",
-          "text": "«Яндекс Видео» — сервис поиск по видеороликам от Яндекса с возможностью просмотра большинства найденных роликов на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах."
+          "headline": "Инвидиус (Invidious) ",
+          "text": "Альтернативный портал для просмотра Ютуба, страдает от блокировок провайдеров, имеются несколько адресов доступа (представлений) "
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logon/yandex.png",
-      "action": "link:https://yandex.ru/video/tvapp/?ui=tvapp"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "TikTok {col:yellow}",
-          "text": "Только WebOS{col}{br}Hеофициальное приложение для webOS"
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/tiktok.png",
-      "action": "link:https://tv.tiktok.com/webos"
+      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
+      "action": "panel:https://alex-sklv00.github.io/msx/invidious/invidious_menu.json"
     },
     {
       "selection": {
@@ -114,18 +102,6 @@
       },
       "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
       "action": "panel:https://alex-sklv00.github.io/msx/vkvideo/vk_template.json"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "Инвидиус (Invidious) ",
-          "text": "Альтернативный портал для просмотра Ютуба, страдает от блокировок провайдеров, имеются несколько адресов доступа (представлений) "
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
-      "action": "panel:https://alex-sklv00.github.io/msx/invidious/invidious_menu.json"
     },
     {
       "selection": {
@@ -150,42 +126,6 @@
       },
       "image": "https://alex-sklv00.github.io/msx/logon/youtube.png",
       "action": "link:https://www.youtube.com/tv#/"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "YOUTUBE KIDS",
-          "text": "Oтдельная версия популярного видеохостинга Youtube, нацеленная исключительно на детей."
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/ytkids.png",
-      "action": "link:https://www.youtube.com/tv/kids"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "Дискотека 80-х",
-          "text": "Интернет-трансляции, ТВ-версии выступления звёзд на «Дискотеке 80-х» Yotube-каналa Avtoradio @Disco80s"
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/disco_pl.jpeg",
-      "action": "content:https://raw.githubusercontent.com/wals09/prog/main/avtoradio/translation.json"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "Переход в главное меню⤴ ",
-          "text": "‹ Переход назад, в главное меню "
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/upside.jpeg",
-      "action": "panel:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
     }
   ]
 }
