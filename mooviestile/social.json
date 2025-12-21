@@ -185,7 +185,7 @@
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/upside.png",
-      "action": "parameter:menu:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
+      "action": "menu:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
     }
   ]
 }
