@@ -119,6 +119,18 @@
       "backdrop": "https://static.nv.ua/shared/system/Article/posters/003/020/887/original/65ed6ab4002cd0b365b5f3e3a1ccf32d.jpg?q=85&stamp=20250116175159&w=600",
       "image": "https://alex-sklv00.github.io/msx/logon/relax.png",
       "action": "content: https://alex-sklv00.github.io/msx/bonus/relax.json"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "Переход в главное меню⤴ ",
+          "text": "‹ Переход назад, в главное меню "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/upside.png",
+      "action": "menu:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
     }
   ]
 }
