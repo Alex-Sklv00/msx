@@ -577,6 +577,19 @@
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
-      }
+      },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "Переход в главное меню⤴ ",
+          "text": "‹ Переход в главное меню "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/upside.png",
+      "action": "menu:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
+    }
    ]
 }
+
