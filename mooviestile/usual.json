@@ -96,30 +96,6 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "Инвидиус (Invidious) ",
-          "text": "Альтернативный портал для просмотра Ютуба, страдает от блокировок провайдеров, имеются несколько адресов доступа (представлений) "
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
-      "action": "panel:https://alex-sklv00.github.io/msx/invidious/invidious_menu.json"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "СМОТРИМ ʷᵉᵇ ",
-          "text": "Pоссийская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК»"
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/smotrim.png",
-      "action": "link:https://tv.smotrim.ru"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
           "headline": "YouTUBE",
           "text": "Oнлайн-сервис для хостинга и просмотра видео"
         }

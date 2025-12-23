@@ -1,6 +1,6 @@
 {
   "type": "list",
-  "background": "https://static.tildacdn.com/tild6632-3233-4236-a166-613266623434/wallhaven-kw7pd7.png",
+  "background": "https://alex-sklv00.github.io/msx/bg/all_bg.jpeg",
   "headline": "Все приложения: ",
   "logo": "https://alex-sklv00.github.io/msx/logo/msy.png",
   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
@@ -497,30 +497,6 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "Яндекс Видео",
-          "text": "«Яндекс Видео» — сервис поиска видеороликов от Яндекса с возможностью просмотра большинства найденного видео на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах "
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/yandex.png",
-      "action": "link:https://yandex.ru/video/tvapp/?ui=tvapp"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "TikTok {col:yellow}",
-          "text": "Только WebOS{col}{br}Hеофициальное приложение для webOS"
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/tiktok.png",
-      "action": "link:https://tv.tiktok.com/webos"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
           "headline": "ВК-Видео ",
           "text": "Свежие видео, фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое "
         }
@@ -533,24 +509,48 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "Инвидиус (Invidious) ",
-          "text": "Альтернативный портал для просмотра Ютуба, страдает от блокировок провайдеров, имеются несколько адресов доступа (представлений) "
-        }
-      },
-      "image": "https://alex-sklv00.github.io/msx/logon/invidious.png",
-      "action": "panel:https://alex-sklv00.github.io/msx/invidious/invidious_menu.json"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
           "headline": "СМОТРИМ ʷᵉᵇ ",
           "text": "Pоссийская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК»"
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/smotrim.png",
       "action": "link:https://tv.smotrim.ru"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "Видео Мэйл_ру (@Mail.ru)",
+          "text": "«Видео Мэйл.ру» — сервис поиска по видео портала и социальной сети «Мэйл.ру» (Mail.ru) "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/video-mail_ru.png",
+      "action": "link:https://my.mail.ru/video"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "ОК-Видео (Одноклассники)",
+          "text": "«Одноклассники-Видео» — сервис поиска видео социальной сети «Одноклассники» (ok.ru) "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/ok-video.png",
+      "action": "link:https://ok.ru/video/showcase"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "Яндекс Видео",
+          "text": "«Яндекс Видео» — сервис поиска видеороликов от Яндекса с возможностью просмотра большинства найденного видео на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/yandex.png",
+      "action": "link:https://yandex.ru/video/tvapp/?ui=tvapp"
     },
     {
       "selection": {
@@ -575,6 +575,18 @@
       },
       "image": "https://alex-sklv00.github.io/msx/logon/ytkids.png",
       "action": "link:https://www.youtube.com/tv/kids"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "TikTok {col:yellow}",
+          "text": "Только WebOS{col}{br}Hеофициальное приложение для webOS"
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/tiktok.png",
+      "action": "link:https://tv.tiktok.com/webos"
     },
     {
       "selection": {
