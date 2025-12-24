@@ -4,7 +4,7 @@
   "compress": true,
   "background": "https://alex-sklv00.github.io/msx/bg/usual_bg.jpeg",
   "type": "list",
-  "headline": "Основные приложения (РГС-1 📺)",
+  "headline": "Основные приложения (РГС-1 📺) ",
   "transparent": 1,
   "preload": "next",
   "underlay": {
@@ -17,7 +17,7 @@
         "id": "text",
         "type": "space",
         "layout": "0,2,16,3",
-        "headline": "",
+        "headline": "Основные приложения (РГС-1 📺) ",
         "text": ""
       }
     ]
@@ -90,6 +90,20 @@
       },
       "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
       "action": "link: https://tv.vk.com/app/2.4.0/webos/"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "Телеканал \"Саратов-24\" (прямой эфир) ",
+          "text": "Прямой эфир телеканала  «Саратов-24» на платформе Рутуба "
+        }
+      },
+      "badge": "{col:white}Rutube ",
+      "badgeColor": "msx-gray-soft",
+      "image": "https://alex-sklv00.github.io/msx/logon/saratov-24.png",
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/video/e07fffc5eb21f98a5ade09e825d7095a"
     },
     {
       "selection": {
