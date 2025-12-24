@@ -502,7 +502,7 @@
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
-      "action": "panel:https://alex-sklv00.github.io/msx/vkvideo/vk_template.json"
+      "action": "link: https://vk.ru/tv-app/lib?version=latest&platform=webos"
     },
     {
       "selection": {
