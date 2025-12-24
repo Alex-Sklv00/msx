@@ -96,7 +96,7 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "Телеканал \"Саратов-24\" (прямой эфир) ",
+          "headline": "Телеканал \"Саратов-24\" (прямой эфир ᴿᵘᵗᵘᵇᵉ) ",
           "text": "Прямой эфир телеканала  «Саратов-24» на платформе Рутуба "
         }
       },
@@ -104,6 +104,20 @@
       "badgeColor": "msx-gray-soft",
       "image": "https://alex-sklv00.github.io/msx/logon/saratov-24.png",
       "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/video/e07fffc5eb21f98a5ade09e825d7095a"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "\"Галопом по Европам\" — новостой сборник ⁽ᴿᵘᵗᵘᵇᵉ⁾ ",
+          "text": "Сборник новостей «Галопом по Европам» известного журналиста Константина Сёмина (\"Агитпроп\") на платформе Рутуба "
+        }
+      },
+      "badge": "{col:white}Rutube ",
+      "badgeColor": "msx-gray-soft",
+      "image": "https://alex-sklv00.github.io/msx/logon/galopom_pe.jpeg",
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/23807418"
     },
     {
       "selection": {
