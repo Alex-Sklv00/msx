@@ -1,7 +1,7 @@
 {
   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
-  "logo": "https://alex-sklv00.github.io/msx/logo/mss.png",
+  "logo": "https://alex-sklv00.github.io/msx/logon/main_menu_title.png",
   "headline": "РГС-1 banditos теливизер ",
   "menu": [
     {

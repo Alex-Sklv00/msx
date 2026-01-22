@@ -3,7 +3,7 @@
   "type": "list",
   "background": "https://alex-sklv00.github.io/msx/bg/store_bg.jpeg",
   "headline": "Другие стартовые страницы MSX: ",
-  "logo": "https://alex-sklv00.github.io/msx/logo/msy.png",
+  "logo": "https://alex-sklv00.github.io/msx/logon/msy.png",
   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
   "preload": "next",
@@ -39,7 +39,7 @@
           "text": "Может не  работать на старых весиях MSX и старых устройствах"
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logo/noname.jpg",
+      "image": "https://alex-sklv00.github.io/msx/logon/noname.jpg",
       "action": "panel:https://alex-sklv00.github.io/msx/alterstore/panel/noname _launch.json"
     },
     {
@@ -51,7 +51,7 @@
           "text": "Запуск web приложений."
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logo/noname.jpg",
+      "image": "https://alex-sklv00.github.io/msx/logon/noname.jpg",
       "action": "panel:https://alex-sklv00.github.io/msx/alterstore/panel/noname.json"
     },
     {

@@ -2,7 +2,7 @@
   "type": "list",
   "background": "https://alex-sklv00.github.io/msx/bg/all_bg.jpeg",
   "headline": "Все приложения: ",
-  "logo": "https://alex-sklv00.github.io/msx/logo/msy.png",
+  "logo": "https://alex-sklv00.github.io/msx/logon/msy.png",
   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
   "preload": "next",
@@ -246,7 +246,7 @@
           "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logo/vokino.png?raw=true",
+      "image": "https://alex-sklv00.github.io/msx/logon/vokino.png?raw=true",
       "action": "link: http://web.vokino.pro/"
     },
     {

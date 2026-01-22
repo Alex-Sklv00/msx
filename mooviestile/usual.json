@@ -2,7 +2,7 @@
   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
   "compress": true,
-  "background": "https://alex-sklv00.github.io/msx/bg/usual_bg.jpeg",
+  "background": "https://alex-sklv00.github.io/msx/bg/usual_bg.jpg",
   "type": "list",
   "headline": "Основные приложения (РГС-1 📺) ",
   "transparent": 1,
@@ -73,11 +73,11 @@
         "action": "update:content:underlay:text",
         "data": {
           "headline": "RUTUBE ʷᵉᵇ ",
-          "text": "Pоссийский онлайн-сервис для хостинга и просмотра видео"
+          "text": "Pоссийский онлайн-сервис для хостинга и просмотра видео "
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/rutube.png",
-      "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
     },
     {
       "selection": {
@@ -96,8 +96,50 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "ATODO-Web ",
+          "text": "Web версия приложения ATODO. Просмотр различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов "
+        }
+      },
+      "badge": "{col:white}Web ",
+      "badgeColor": "msx-green",
+      "image": "https://alex-sklv00.github.io/msx/logon/atodo.png",
+      "action": "link:http://msx.atodo.fun/"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "Передача \"Код доступа\" с Павлом Веденяпиным – подробные расследования мировых событий ⁽ᴿᵘᵗᵘᵇᵉ⁾ ",
+          "text": "Выпуски передачи «Код доступа» с Павлом Веденяпиным раскрывают тайные механизмы произошедших и происходящих событий в политике, экономике, культуре и науке, отражающихся на нашей обычной жизни, с выкладками специалистов и мнением экспертных сообществ. Источник просмотра – платформа Рутуба "
+        }
+      },
+      "badge": "{col:white}Rutube ",
+      "badgeColor": "msx-gray-soft",
+      "image": "https://alex-sklv00.github.io/msx/logon/kod_dostupa.png",
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/tv23825"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "\"Галопом по Европам\" – новостой сборник ⁽ᴿᵘᵗᵘᵇᵉ⁾ ",
+          "text": "Сборник новостей  «Галопом по Европам» известного журналиста Константина Сёмина (\"Агитпроп\") на платформе Рутуба "
+        }
+      },
+      "badge": "{col:white}Rutube ",
+      "badgeColor": "msx-gray-soft",
+      "image": "https://alex-sklv00.github.io/msx/logon/galopom_pe.png",
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/23807418"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "Телеканал \"Саратов-24\" (прямой эфир ᴿᵘᵗᵘᵇᵉ) ",
-          "text": "Прямой эфир телеканала  «Саратов-24» на платформе Рутуба "
+          "text": "Прямой эфир телеканала   «Саратов-24» на платформе Рутуба "
         }
       },
       "badge": "{col:white}Rutube ",
@@ -110,22 +152,8 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "\"Галопом по Европам\" — новостой сборник ⁽ᴿᵘᵗᵘᵇᵉ⁾ ",
-          "text": "Сборник новостей «Галопом по Европам» известного журналиста Константина Сёмина (\"Агитпроп\") на платформе Рутуба "
-        }
-      },
-      "badge": "{col:white}Rutube ",
-      "badgeColor": "msx-gray-soft",
-      "image": "https://alex-sklv00.github.io/msx/logon/galopom_pe.jpeg",
-      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/23807418"
-    },
-    {
-      "selection": {
-        "important": true,
-        "action": "update:content:underlay:text",
-        "data": {
-          "headline": "YouTUBE",
-          "text": "Oнлайн-сервис для хостинга и просмотра видео"
+          "headline": "YouTUBE ",
+          "text": "Oнлайн-сервис для хостинга и просмотра видео "
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/youtube.png",
