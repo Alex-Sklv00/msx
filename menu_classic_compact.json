@@ -275,7 +275,7 @@
                "headline": "Фильмы, сериалы, аниме, просмотр торрентов"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/vokino.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/vokino.png?raw=true",
          "action": "link: http://web.vokino.pro/",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"

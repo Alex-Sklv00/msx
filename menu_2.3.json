@@ -92,7 +92,7 @@
                "text": "IPTV player. Возможность просмотра своих плейлистов,сталкер-порталов,медиатек. Сохранение, перенос настроек"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/ott-play.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/ott-play.png?raw=true",
          "action": "link:http://ott-play.com/f/",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
@@ -124,7 +124,7 @@
                "text": "{col:msx-white}сервис, позволяющий собрать все ваше IP-телевидение в один плейлист, настроить порядок каналов, получить электронный программный гид."
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/ottplayer.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/ottplayer.png?raw=true",
          "action": "link:http://widget.ottplayer.tv",
          "properties": {
             "image:extension": "| {col:msx-white}27th Item"
@@ -140,7 +140,7 @@
                "text": "{col:msx-white}мультиплатформенный плеер для воспроизведения m3u плейлистов в общепринятом формате, подходит для воспроизведения аудио, видео, радио, live плейлистов. "
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/one_player.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/one_player.png?raw=true",
          "action": "link:http://webos.oneplayer.me",
          "properties": {
             "image:extension": "| {col:msx-white}27th Item"
@@ -204,7 +204,7 @@
                "text": "{col:msx-white}Мод программы Лампа{br}c установленым магазином плагинов и другими «плюшками»"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/bylampa.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/bylampa.png?raw=true",
          "action": "link:http://bylampa.online",
          "properties": {
             "image:extension": "| {col:msx-white}27th Item"
@@ -231,14 +231,14 @@
          "color": "red",
          "selection": {
             "important": true,
-            "background": "https://alex-sklv00.github.io/msx/logo/welcome.jpg?raw=true",
+            "background": "https://alex-sklv00.github.io/msx/logon/welcome.jpg?raw=true",
             "action": "update:content:underlay:text",
             "data": {
                "headline": "Lampa lite",
                "text": "{col:yellow}Облегченная версия программы Lampa. Lampa lite не потдерживается разработчиками."
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/lite.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/lite.png?raw=true",
          "action": "link:http://lite.lampa.mx",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -270,7 +270,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/vokino.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/vokino.png?raw=true",
          "action": "link: http://web.vokino.tv/",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
@@ -338,7 +338,7 @@
                "text": "{col:msx-white}Портал MOVIELAB на базе Media Station X. Просмотр видео контента on-line"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/movielab.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/movielab.png?raw=true",
          "action": "menu:https://movielab.fun/msx/menu.json",
          "properties": {
             "image:extension": "| {col:msx-white}Tenth Item"
@@ -387,7 +387,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов."
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/deeplex.jpg?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/deeplex.jpg?raw=true",
          "action": "link:http://smart.deeplex.cc/",
          "properties": {
             "image:extension": "| {col:msx-white}20th Item"
@@ -436,7 +436,7 @@
                "image": "https://alex-sklv00.github.io/msx/xsmart/capture.gif"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/xsmart.png?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/xsmart.png?raw=true",
          "action": "link:http://app.xsmart.tv",
          "properties": {
             "image:extension": "| {col:msx-white}22nd Item"
@@ -596,7 +596,7 @@
                "text": "{col:msx-white}российская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК»"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/smotrim.jpg?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/smotrim.jpg?raw=true",
          "action": "link:https://tv.smotrim.ru",
          "properties": {
             "image:extension": "| {col:msx-white}16th Item"
@@ -612,7 +612,7 @@
                "text": "{col:msx-white}Oнлайн-сервис для хостинга и просмотра видео"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/youtube.jpg?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/youtube.jpg?raw=true",
          "action": "link:https://www.youtube.com/tv#/",
          "properties": {
             "image:extension": "| {col:msx-white}17th Item"
@@ -628,7 +628,7 @@
                "text": "{col:msx-white}Oтдельная версия популярного видеохостинга Youtube, нацеленная исключительно на детей."
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logo/ytkids.jpg?raw=true",
+         "image": "https://alex-sklv00.github.io/msx/logon/ytkids.jpg?raw=true",
          "action": "link:https://www.youtube.com/tv/kids",
          "properties": {
             "image:extension": "| {col:msx-white}18th Item"
