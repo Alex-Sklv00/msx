@@ -51,7 +51,7 @@
          "titleHeader": "Launchcer",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://alex-sklv00.github.io/msx/logo/noname.jpg",
+         "image": "https://alex-sklv00.github.io/msx/logon/noname.jpg",
          "action": "panel:https://alex-sklv00.github.io/msx/alterstore/panel/noname _launch.json"
       },
       {
@@ -59,7 +59,7 @@
          "titleHeader": "Portal",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://alex-sklv00.github.io/msx/logo/noname.jpg",
+         "image": "https://alex-sklv00.github.io/msx/logon/noname.jpg",
          "action": "panel:https://alex-sklv00.github.io/msx/alterstore/panel/noname.json"
       },
       {
@@ -67,7 +67,7 @@
          "titleHeader": "Portal",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://alex-sklv00.github.io/msx/logo/noname.jpg",
+         "image": "https://alex-sklv00.github.io/msx/logon/noname.jpg",
          "action": "panel:https://alex-sklv00.github.io/msx/alterstore/panel/tvru.json"
       },
       {
