@@ -258,7 +258,7 @@
             }
          },
          "playerLabel": "KHL",
-         "image": "https://logodix.com/logo/1762929.png",
+         "image": "https://logodix.com/logon/1762929.png",
          "action": "video: http://82.215.111.227/1028/index.m3u8?token=fas-tv.com",
          "properties": {
             "trigger:back": "player:stop",
