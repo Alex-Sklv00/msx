@@ -138,6 +138,20 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "Канал \"Диалоги о рыбалке\" ⁽ᴿᵘᵗᵘᵇᵉ⁾ ",
+          "text": "Канал «Диалоги о рыбалке» –\nпервый полностью отечественный телеканал для любителей рыбной ловли, путешествий и отдыха на природе. Источник просмотра – платформа Рутуба "
+        }
+      },
+      "badge": "{col:white}Rutube ",
+      "badgeColor": "msx-gray-soft",
+      "image": "https://alex-sklv00.github.io/msx/logon/dialogi_o_rybalke.png",
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/24808533"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "Канал \"Дискавери\" (\"Discovery Channel\") на Рутубе ",
           "text": "Канал «Дискавери» (\"Discovery Channel\") – тематический познавательно-развлекательный и научно-популярный телеканал (США). Вещание телеканала основано на документальных передачах о науке, технологии и истории. Источник просмотра – платформа Рутуба "
         }
