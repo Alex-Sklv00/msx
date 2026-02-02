@@ -8,7 +8,7 @@
       "type": "separator"
     },
     {
-      "icon": "hotel-class",
+      "icon": "star",
       "label": "Основные приложения (РГС-1_ТВ) ",
       "data": "https://alex-sklv00.github.io/msx/mooviestile/usual.json"
     },
