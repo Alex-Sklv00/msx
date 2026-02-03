@@ -616,7 +616,7 @@
                "text": "{col:yellow}Только WebOS{col}{br}шоу любимых блогеров, свежие фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое "
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
+         "image": "https://alex-sklv00.github.io/msx/logon/vkvideo.png",
          "action": "link:https://vk.ru/tv-app/lib?version=1.3.13&platform=webos",
          "properties": {
             "image:extension": "| {col:msx-white}15th Item"

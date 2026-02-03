@@ -619,7 +619,7 @@
                "headline": "Блогеры, фильмы, сериалы, телеканалы, мультфильмы и т.п"
             }
          },
-         "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
+         "image": "https://alex-sklv00.github.io/msx/logon/vkvideo.png",
          "action": "panel:https://alex-sklv00.github.io/msx/vkvideo/vk_template.json",
          "properties": {
             "image:extension": "| {col:msx-white}15th Item"
