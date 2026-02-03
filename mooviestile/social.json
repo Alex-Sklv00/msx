@@ -88,7 +88,7 @@
           "text": "Свежие видео, фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое "
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/vkvideo.png",
       "action": "panel:https://alex-sklv00.github.io/msx/vkvideo/vk_template.json"
     },
     {
