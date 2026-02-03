@@ -8,7 +8,7 @@
       "type": "separator"
     },
     {
-      "icon": "star-purple500",
+      "icon": "star-outline",
       "label": "Основные приложения (РГС-1_ТВ) ",
       "data": "https://alex-sklv00.github.io/msx/mooviestile/usual.json"
     },
