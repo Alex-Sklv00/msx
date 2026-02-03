@@ -1,6 +1,6 @@
 {
   "type": "list",
-  "headline": "VK video",
+  "headline": "ВК-Видео: ",
   "dictionary": "https://alex-sklv00.github.io/msx/dictionary.json",
   "preload": "next",
   "captionUnderlay": 1,
@@ -19,7 +19,7 @@
         "layout": "0,3,6,3",
         "offset": "0,0.3,0,0",
         "headline": "",
-        "text": "{col:white}Если в вашем регионе доступ к ВК заблокирован ищите способ обхода блокировки. "
+        "text": "{col:white}Если в вашем регионе доступ к ВК заблокирован ищите способ обхода блокировки "
       }
     ]
   },
@@ -35,26 +35,26 @@
     {
       "badge": "{col:white}2.4.0-WebOS",
       "badgeColor": "msx-green",
-      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/vkvideo.png",
       "action": "link: https://tv.vk.com/app/2.4.0/webos/"
     },
     {
       "badge": "{col:white}2.4.0-Vidaa",
       "badgeColor": "msx-blue",
-      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/vkvideo.png",
       "action": "link: https://tv.vk.com/app/2.4.0/vidaa/"
     },
     {
       "badge": "{col:white}WebOS",
       "badgeColor": "msx-green",
-      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
-      "action": "link:  https://vk.ru/tv-app/lib?version=latest&platform=webos"
+      "image": "https://alex-sklv00.github.io/msx/logon/vkvideo.png",
+      "action": "link: https://vk.ru/tv-app/lib?version=latest&platform=webos"
     },
     {
       "badge": "{col:white}Vidaa",
       "badgeColor": "msx-blue",
-      "image": "https://alex-sklv00.github.io/msx/logon/vk.png",
-      "action": "link:  https://vk.ru/tv-app/lib?version=latest&platform=vidaa"
+      "image": "https://alex-sklv00.github.io/msx/logon/vkvideo.png",
+      "action": "link: https://vk.ru/tv-app/lib?version=latest&platform=vidaa"
     }
   ]
 }
