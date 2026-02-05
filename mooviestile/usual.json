@@ -138,6 +138,20 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "ХомячОК ∼ Приколы и Юмор ⁽ᴿᵘᵗᵘᵇᵉ⁾ ",
+          "text": "«ХомячОК | Приколы и Юмор» –\nэто смешные видео, забавные моменты и креативные шутки, которые поднимут вам настроение и заставят смеяться до отпада! Источник просмотра – платформа Рутуба "
+        }
+      },
+      "badge": "{col:white}Rutube ",
+      "badgeColor": "msx-gray-soft",
+      "image": "https://alex-sklv00.github.io/msx/logon/discovery_channel.png",
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/13457575"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "Канал \"Диалоги о рыбалке\" ⁽ᴿᵘᵗᵘᵇᵉ⁾ ",
           "text": "Канал «Диалоги о рыбалке» –\nпервый полностью отечественный телеканал для любителей рыбной ловли, путешествий и отдыха на природе. Источник просмотра – платформа Рутуба "
         }
@@ -159,7 +173,7 @@
       "badge": "{col:white}Rutube ",
       "badgeColor": "msx-gray-soft",
       "image": "https://alex-sklv00.github.io/msx/logon/discovery_channel.png",
-      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/38393848"
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/38393848/playlists/"
     },
     {
       "selection": {
@@ -199,7 +213,7 @@
       "badge": "{col:white}Web ",
       "badgeColor": "msx-green",
       "image": "https://alex-sklv00.github.io/msx/logon/media_station_x_blue.png",
-      "action": "link: http://msx.benzac.de/?start=menu:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
+      "action": "link: https://msx.benzac.de/?start=menu:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
     },
     {
       "selection": {
