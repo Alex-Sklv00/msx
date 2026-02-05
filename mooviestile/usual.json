@@ -144,7 +144,7 @@
       },
       "badge": "{col:white}Rutube ",
       "badgeColor": "msx-gray-soft",
-      "image": "https://alex-sklv00.github.io/msx/logon/discovery_channel.png",
+      "image": "https://alex-sklv00.github.io/msx/logon/prikoly_rutube.png",
       "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/13457575"
     },
     {
@@ -173,7 +173,7 @@
       "badge": "{col:white}Rutube ",
       "badgeColor": "msx-gray-soft",
       "image": "https://alex-sklv00.github.io/msx/logon/discovery_channel.png",
-      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/38393848/playlists/"
+      "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/38393848/"
     },
     {
       "selection": {
