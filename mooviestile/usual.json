@@ -192,6 +192,32 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "\"Поведная установка икс\" ⁽ᵂᵉᵇ⁾ ",
+          "text": "Web версия приложения «Поведная установка икс» (Media Station X). Запускает последнюю версию этого приложения, работает на старых смарт-телевизорах (не поддерживающих своевременные обновления) "
+        }
+      },
+      "badge": "{col:white}Web ",
+      "badgeColor": "msx-green",
+      "image": "https://alex-sklv00.github.io/msx/logon/media_station_x_blue.png",
+      "action": "link:http://msx.benzac.de/?start=menu:https://alex-sklv00.github.io/msx/mooviestile/menu_ms.json"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "СМОТРИМ ʷᵉᵇ ",
+          "text": "Pоссийская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК»"
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/smotrim.png",
+      "action": "link:https://tv.smotrim.ru"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "Переход в главное меню⤴ ",
           "text": "‹ Переход назад, в главное меню "
         }
