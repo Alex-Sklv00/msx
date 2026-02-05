@@ -221,11 +221,23 @@
         "action": "update:content:underlay:text",
         "data": {
           "headline": "СМОТРИМ ʷᵉᵇ ",
-          "text": "Pоссийская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК»"
+          "text": "Pоссийская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК» "
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/smotrim.png",
-      "action": "link:https://tv.smotrim.ru"
+      "action": "link: https://tv.smotrim.ru"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "СМОТРИМ ʷᵉᵇ ",
+          "text": "Pоссийская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК» "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/smotrim.png",
+      "action": "link: https://msx.benzac.de/?action=link:https://tv.smotrim.ru"
     },
     {
       "selection": {
