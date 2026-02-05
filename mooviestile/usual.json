@@ -237,7 +237,7 @@
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/smotrim.png",
-      "action": "link: https://msx.benzac.de/?link=https://tv.smotrim.ru"
+      "action": "link: https://msx.benzac.de/?content=link:https://tv.smotrim.ru"
     },
     {
       "selection": {
