@@ -113,7 +113,7 @@
         }
       },
       "image": "https://alex-sklv00.github.io/msx/logon/smotrim.png",
-      "action": "link:https://tv.smotrim.ru"
+      "action": "link: https://tv.smotrim.ru"
     },
     {
       "selection": {
