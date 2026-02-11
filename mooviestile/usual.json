@@ -180,6 +180,18 @@
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
+          "headline": "Канал \"Живая планета\" ",
+          "text": "Канал «Живая планета» – российский познавательно-развлекательный телеканал о природе и ее обитателях! Редчайшие животные, неизведанные места и удивительные растения: природа стала ещё ближе и доступнее. "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/zhivaya_planeta.png",
+      "action": "video: http://31.148.48.15/Zhivaya_Planeta/index.m3u8?token=test"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
           "headline": "Телеканал \"Саратов-24\" (прямой эфир ᴿᵘᵗᵘᵇᵉ) ",
           "text": "Прямой эфир телеканала   «Саратов-24» на платформе Рутуба "
         }
@@ -199,8 +211,8 @@
         }
       },
       "badge": "{col:white}VK-video ",
-      "badgeColor": "rgba(255, 0, 0, 0.5)",
-      "image": "https://alex-sklv00.github.io/msx/logon/dialogi_o_rybalke.png",
+      "badgeColor": "rgba(255, 0, 0, 0.3)",
+      "image": "https://alex-sklv00.github.io/msx/logon/region-64_news.png",
       "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/24808533"
     },
     {
