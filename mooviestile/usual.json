@@ -210,9 +210,9 @@
           "text": "Канал «Диалоги о рыбалке» –\nпервый полностью отечественный телеканал для любителей рыбной ловли, путешествий и отдыха на природе. Источник просмотра – платформа Рутуба "
         }
       },
-      "badge": "{col:white}VK-video ",
+      "badge1": "{col:white}VK-video ",
       "badgeColor": "rgba(255, 0, 0, 0.3)",
-      "image": "https://alex-sklv00.github.io/msx/logon/region-64_news1.png",
+      "image1": "https://alex-sklv00.github.io/msx/logon/region-64_news.png",
       "action": "link: https://rutube.ru/tv-release/rutube.server-22.0.0/webos/#!/collection/channel/24808533"
     },
     {
@@ -226,6 +226,18 @@
       },
       "image": "https://alex-sklv00.github.io/msx/logon/youtube.png",
       "action": "link:https://www.youtube.com/tv#/"
+    },
+    {
+      "selection": {
+        "important": true,
+        "action": "update:content:underlay:text",
+        "data": {
+          "headline": "Список видео для просмотра ",
+          "text": "Список воспроизведения видео самостоятельно добавленных для просмотра "
+        }
+      },
+      "image": "https://alex-sklv00.github.io/msx/logon/custom_video_playlist/playlist_custom_video.png",
+      "action": "panel:https://alex-sklv00.github.io/msx/custom_video_playlist/custom_video_playlist_menu.json"
     },
     {
       "selection": {
