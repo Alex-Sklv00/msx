@@ -236,7 +236,7 @@
           "text": "Список воспроизведения видео самостоятельно добавленных для просмотра "
         }
       },
-      "image": "https://alex-sklv00.github.io/msx/logon/custom_video_playlist/playlist_custom_video.png",
+      "image": "https://alex-sklv00.github.io/msx/custom_video_playlist/playlist_custom_video.png",
       "action": "panel:https://alex-sklv00.github.io/msx/custom_video_playlist/custom_video_playlist_menu.json"
     },
     {
