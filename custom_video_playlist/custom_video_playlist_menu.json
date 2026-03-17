@@ -26,7 +26,7 @@
   "items": [
     {
       "image": "https://alex-sklv00.github.io/msx/vkvideo/vkvideo1.png",
-      "action": "https://vkvideo.ru/video_ext.php?oid=-230018501&id=456240610&hash=0fe18822be7dbd63&hd=1&t=11m54s&mute=0&autoplay=1"
+      "action": "link:https://vkvideo.ru/video_ext.php?oid=-230018501&id=456240610&hash=0fe18822be7dbd63&hd=1&t=11m54s&mute=0&autoplay=1"
     }
   ]
 }
