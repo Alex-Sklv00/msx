@@ -26,11 +26,11 @@
   "items": [
     {
       "image": "https://alex-sklv00.github.io/msx/vkvideo/vkvideo1.png",
-      "action": "[link:https://vkvd675.okcdn.ru/?expires=1773947332626&srcIp=188.162.48.75&pr=40&srcAg=UNKNOWN_MAC&ms=178.237.23.154&type=1&subId=10762578889231&sig=vpudrRk2SbU&ct=0&urls=185.226.52.199&clientType=14&appId=512000384397&zs=17&id=10748930165263|player:video:position:719]"
+      "action": "[link:https://vkvideo.ru/video_ext.php?oid=-230018501&id=456240610&hash=0fe18822be7dbd63&hd=1|player:video:position:719]"
     },
     {
       "image": "https://alex-sklv00.github.io/msx/vkvideo/vkvideo1.png",
-      "action": "link:https://vkvd675.okcdn.ru/?expires=1773947332626&srcIp=188.162.48.75&pr=40&srcAg=CHROME_MAC&ms=178.237.23.154&type=1&subId=10762578889231&sig=vpudrRk2SbU&ct=0&urls=185.226.52.199&clientType=14&appId=512000384397&zs=17&id=10748930165263"
+      "action": "link:https://vkvd675.okcdn.ru/?expires=1773947332626&srcIp=188.162.48.75&pr=40&srcAg=UNKNOWN&ms=178.237.23.154&type=1&subId=10762578889231&sig=vpudrRk2SbU&ct=0&urls=185.226.52.199&clientType=14&appId=512000384397&zs=17&id=10748930165263"
     }
   ]
 }
