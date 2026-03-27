@@ -26,6 +26,10 @@
   "items": [
     {
       "image": "https://alex-sklv00.github.io/msx/vkvideo/vkvideo1.png",
+      "action": "link:https://vkvideo.ru/video_ext.php?oid=-230018501&id=456240610&hash=0fe18822be7dbd63&__ref=vk.smart_tv&t=11m54s&mute=0&autoplay=1"
+    },
+    {
+      "image": "https://alex-sklv00.github.io/msx/vkvideo/vkvideo1.png",
       "action": "link:https://vkvideo.ru/video_ext.php?oid=-230018501&id=456240610&hash=0fe18822be7dbd63&hd=1&t=11m54s&mute=0&autoplay=1"
     }
   ]
